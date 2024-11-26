@@ -12,6 +12,9 @@
 # L.sort() Sorts the list
 
 
+#tuple are immutable, 
+#list is mutable
+
 li = ["utkarsh", "Dhruv", "Shaurya"]
 li2 = ["Tripathi", "Pankhania", "Kesarwani"]
 li3 = ["kemcho", "namaskar"]
